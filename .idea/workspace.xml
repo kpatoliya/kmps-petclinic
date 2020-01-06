@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd797d24-3b8b-4e87-bff8-ea74507226da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/PetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmps-petclinic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kmps-petclinic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Vo3ygePXtxBFUCfkVs13fIJSNR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +46,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring5webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="springwork.kmpspetclinic.model" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="KmpsPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -63,7 +85,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577905876278</updated>
-      <workItem from="1577905882747" duration="1343000" />
+      <workItem from="1577905882747" duration="1603000" />
+      <workItem from="1578274514866" duration="85000" />
+      <workItem from="1578274713878" duration="9000" />
+      <workItem from="1578274803727" duration="21000" />
+      <workItem from="1578275073866" duration="41000" />
+      <workItem from="1578275346088" duration="29000" />
+      <workItem from="1578275631536" duration="16000" />
+      <workItem from="1578352037715" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing">
       <created>1577906236445</created>
@@ -72,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577906236445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initializing">
+      <created>1577916563353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577916563353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,21 +119,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initializing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="151" width="909" height="803" key="CommitChangelistDialog2" timestamp="1577906236088">
+    <state x="807" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578352932836">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="540" y="151" width="909" height="803" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1577906236088" />
+    <state x="807" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/79.27.1841.1053@79.27.1841.1053" timestamp="1578352932836" />
+    <state x="840" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578352639604">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="840" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1578352639604" />
+    <state x="540" y="151" width="909" height="803" key="CommitChangelistDialog2" timestamp="1577916563162">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="540" y="151" width="909" height="803" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1577916563162" />
     <state x="254" y="117" width="1472" height="872" key="DiffContextDialog" timestamp="1577906141334">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="254" y="117" width="1472" height="872" key="DiffContextDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1577906141334" />
-    <state x="782" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577916109123">
+    <state x="782" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578275644397">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="782" y="310" width="424" height="484" key="FileChooserDialogImpl/79.27.1841.1053@79.27.1841.1053" timestamp="1577916109123" />
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577906241910">
+    <state x="782" y="310" width="424" height="484" key="FileChooserDialogImpl/79.27.1841.1053@79.27.1841.1053" timestamp="1578275644397" />
+    <state x="795" y="197" key="SettingsEditor" timestamp="1578353353470">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1577906241910" />
+    <state x="795" y="197" key="SettingsEditor/79.27.1841.1053@79.27.1841.1053" timestamp="1578353353470" />
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1577916570160">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1577916570159" />
+    <state x="655" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578275348059">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="655" y="380" key="com.intellij.ide.util.TipDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1578275348059" />
+    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1578352997315">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup/79.27.1841.1053@79.27.1841.1053" timestamp="1578352997315" />
   </component>
 </project>
