@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd797d24-3b8b-4e87-bff8-ea74507226da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Owner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/PetType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/springwork/kmpspetclinic/model/Vet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmps-petclinic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kmps-petclinic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +108,11 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Initializing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initializing" />
+    <MESSAGE value="Pet POJO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pet POJO" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="807" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578352932836">
@@ -127,10 +123,10 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="840" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1578352639604" />
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1578353472709">
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1578432076203">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1578353472709" />
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1578432076203" />
     <state x="254" y="117" width="1472" height="872" key="DiffContextDialog" timestamp="1578353467485">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
