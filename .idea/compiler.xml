@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kmps-petclinic" target="1.8" />
-      <module name="petclinic-data" target="1.8" />
-      <module name="petclinic-web" target="1.8" />
+      <module name="kmps-petclinic" target="11" />
+      <module name="petclinic-data" target="11" />
+      <module name="petclinic-web" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
