@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd797d24-3b8b-4e87-bff8-ea74507226da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/OwnerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/VetService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmps-petclinic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kmps-petclinic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/PetType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/model/Vet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/KmpsPetclinicApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/KmpsPetclinicApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-web/src/test/java/kmpspetclinic/KmpsPetclinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/test/java/kmpspetclinic/KmpsPetclinicApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -109,7 +105,7 @@
       <workItem from="1578275631536" duration="16000" />
       <workItem from="1578352037715" duration="1316000" />
       <workItem from="1578502423071" duration="6120000" />
-      <workItem from="1578583818837" duration="834000" />
+      <workItem from="1578583818837" duration="2025000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing">
       <created>1577906236445</created>
@@ -160,7 +156,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578521332213</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Pet POJO">
+      <created>1578584748599</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578584748600</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pet POJO">
+      <created>1578584756996</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578584756996</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pet POJO">
+      <created>1578584820659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578584820659</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,10 +220,10 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="752" y="434" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/79.27.1841.1053@79.27.1841.1053" timestamp="1578502606426" />
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1578584756844">
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1578584820494">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1578584756844" />
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1578584820494" />
     <state x="254" y="117" width="1472" height="872" key="DiffContextDialog" timestamp="1578353467485">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
@@ -235,10 +252,10 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="795" y="197" key="SettingsEditor/79.27.1841.1053@79.27.1841.1053" timestamp="1578584100047" />
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578584759254">
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578584824640">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1578584759254" />
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1578584824640" />
     <state x="655" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578275348059">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
