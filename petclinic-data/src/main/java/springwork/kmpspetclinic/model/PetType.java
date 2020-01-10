@@ -1,8 +1,9 @@
 package springwork.kmpspetclinic.model;
+
 /*** Created by karan patoliya
  on Jan 2020    ***/
 
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 
