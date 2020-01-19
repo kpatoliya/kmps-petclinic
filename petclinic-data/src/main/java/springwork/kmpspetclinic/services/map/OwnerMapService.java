@@ -1,5 +1,6 @@
 package springwork.kmpspetclinic.services.map;
 
+import org.springframework.stereotype.Service;
 import springwork.kmpspetclinic.model.Owner;
 import springwork.kmpspetclinic.services.OwnerService;
 
@@ -7,6 +8,8 @@ import java.util.Set;
 
 /*** Created by karan patoliya
  on Jan 2020    ***/
+
+@Service
 public class OwnerMapService extends AbstractMapService<Owner, Long> implements OwnerService {
     @Override
     public Set<Owner> findAll() {
@@ -20,7 +23,7 @@ public class OwnerMapService extends AbstractMapService<Owner, Long> implements 
 
     @Override
     public Owner save(Owner object) {
-        return super.save(object.getId(), object);
+        return super.save(object);
     }
 
     @Override
