@@ -1,13 +1,13 @@
 package springwork.kmpspetclinic.services.map;
 
 import springwork.kmpspetclinic.model.Vet;
-import springwork.kmpspetclinic.services.CrudService;
+import springwork.kmpspetclinic.services.VetService;
 
 import java.util.Set;
 
 /*** Created by karan patoliya
  on Jan 2020    ***/
-public class VetMapService extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetMapService extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
