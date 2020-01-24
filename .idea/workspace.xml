@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd797d24-3b8b-4e87-bff8-ea74507226da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/less/header.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/less/petclinic.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/less/typography.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/messages/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/messages/messages_de.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/messages/messages_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/messages/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/fragments/inputField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/fragments/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/fragments/selectField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/wro/wro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/src/main/wro/wro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/montserrat-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/montserrat-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/montserrat-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/montserrat-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/varela_round-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/varela_round-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/varela_round-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/fonts/varela_round-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/pets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/platform-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/spring-logo-dataflow-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/spring-logo-dataflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/static/resources/images/spring-pivotal-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/fragments/inputField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/fragments/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/fragments/selectField.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/owners/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic-web/target/classes/templates/vets/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/OwnerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/AbstractMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/AbstractMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/OwnerMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/OwnerMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/PetMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/PetMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/VetMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-data/src/main/java/springwork/kmpspetclinic/services/map/VetMapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/bootstrap/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/bootstrap/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/controllers/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/java/springwork/kmpspetclinic/controllers/OwnerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/owners/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/owners/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petclinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/resources/bird.png" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/bird.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/vets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/petclinic-web/src/main/resources/templates/vets/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,27 +85,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sfg-pet-clinic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/petclinic-web/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/petclinic-web/src/test/java" />
+      <recent name="$PROJECT_DIR$/petclinic-web/src/test" />
+      <recent name="$PROJECT_DIR$/petclinic-web/src/main/resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="springwork.kmpspetclinic" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/petclinic-web/src/main/resources" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="springwork.kmpspetclinic.model" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/petclinic-web/src/test/java" />
-      <recent name="$PROJECT_DIR$/petclinic-web/src/test" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/petclinic-web/src/main/resources" />
     </key>
   </component>
@@ -154,7 +183,12 @@
       <workItem from="1578762830542" duration="5000" />
       <workItem from="1578948344005" duration="88000" />
       <workItem from="1578948531949" duration="599000" />
-      <workItem from="1579451527889" duration="6134000" />
+      <workItem from="1579451527889" duration="6199000" />
+      <workItem from="1579629402025" duration="260000" />
+      <workItem from="1579660819372" duration="280000" />
+      <workItem from="1579809922739" duration="3319000" />
+      <workItem from="1579832873224" duration="8000" />
+      <workItem from="1579833289546" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing">
       <created>1577906236445</created>
@@ -261,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579453417829</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="BootStrap Added">
+      <created>1579457703815</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579457703815</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +321,10 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="594" y="214" width="800" height="677" key="#Notifications" timestamp="1579629652862">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="594" y="214" width="800" height="677" key="#Notifications/79.27.1841.1053@79.27.1841.1053" timestamp="1579629652862" />
     <state x="594" y="214" width="847" height="677" key="#Project_Structure" timestamp="1579452366622">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
@@ -312,10 +357,10 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="732" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1578676170737" />
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1579453417756">
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2" timestamp="1579457703739">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1579453417756" />
+    <state x="540" y="151" width="909" height="527" key="CommitChangelistDialog2/79.27.1841.1053@79.27.1841.1053" timestamp="1579457703739" />
     <state x="254" y="117" width="1472" height="872" key="DiffContextDialog" timestamp="1578353467485">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
@@ -324,38 +369,38 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="782" y="310" width="424" height="484" key="FileChooserDialogImpl/79.27.1841.1053@79.27.1841.1053" timestamp="1578676388522" />
-    <state width="1795" height="359" key="GridCell.Tab.0.bottom" timestamp="1579457145590">
+    <state width="1795" height="221" key="GridCell.Tab.0.bottom" timestamp="1579834175444">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.0.bottom/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145590" />
-    <state width="1795" height="359" key="GridCell.Tab.0.center" timestamp="1579457145589">
+    <state width="1795" height="221" key="GridCell.Tab.0.bottom/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175444" />
+    <state width="1795" height="221" key="GridCell.Tab.0.center" timestamp="1579834175443">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.0.center/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145589" />
-    <state width="1795" height="359" key="GridCell.Tab.0.left" timestamp="1579457145589">
+    <state width="1795" height="221" key="GridCell.Tab.0.center/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175443" />
+    <state width="1795" height="221" key="GridCell.Tab.0.left" timestamp="1579834175443">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.0.left/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145589" />
-    <state width="1795" height="359" key="GridCell.Tab.0.right" timestamp="1579457145590">
+    <state width="1795" height="221" key="GridCell.Tab.0.left/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175443" />
+    <state width="1795" height="221" key="GridCell.Tab.0.right" timestamp="1579834175444">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.0.right/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145590" />
-    <state width="1795" height="359" key="GridCell.Tab.1.bottom" timestamp="1579457145591">
+    <state width="1795" height="221" key="GridCell.Tab.0.right/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175444" />
+    <state width="1795" height="221" key="GridCell.Tab.1.bottom" timestamp="1579834175446">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.1.bottom/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145591" />
-    <state width="1795" height="359" key="GridCell.Tab.1.center" timestamp="1579457145590">
+    <state width="1795" height="221" key="GridCell.Tab.1.bottom/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175446" />
+    <state width="1795" height="221" key="GridCell.Tab.1.center" timestamp="1579834175445">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.1.center/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145590" />
-    <state width="1795" height="359" key="GridCell.Tab.1.left" timestamp="1579457145590">
+    <state width="1795" height="221" key="GridCell.Tab.1.center/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175445" />
+    <state width="1795" height="221" key="GridCell.Tab.1.left" timestamp="1579834175445">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.1.left/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145590" />
-    <state width="1795" height="359" key="GridCell.Tab.1.right" timestamp="1579457145591">
+    <state width="1795" height="221" key="GridCell.Tab.1.left/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175445" />
+    <state width="1795" height="221" key="GridCell.Tab.1.right" timestamp="1579834175446">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state width="1795" height="359" key="GridCell.Tab.1.right/79.27.1841.1053@79.27.1841.1053" timestamp="1579457145591" />
+    <state width="1795" height="221" key="GridCell.Tab.1.right/79.27.1841.1053@79.27.1841.1053" timestamp="1579834175446" />
     <state width="1795" height="344" key="GridCell.Tab.2.bottom" timestamp="1578676388789">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
@@ -376,26 +421,30 @@
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="676" y="265" width="636" height="574" key="RollbackChangesDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1579453067252" />
-    <state x="795" y="197" key="SettingsEditor" timestamp="1578584100047">
+    <state x="795" y="197" key="SettingsEditor" timestamp="1579629630339">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="795" y="197" key="SettingsEditor/79.27.1841.1053@79.27.1841.1053" timestamp="1578584100047" />
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579453418830">
+    <state x="795" y="197" key="SettingsEditor/79.27.1841.1053@79.27.1841.1053" timestamp="1579629630339" />
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579457705151">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1579453418830" />
+    <state x="594" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/79.27.1841.1053@79.27.1841.1053" timestamp="1579457705151" />
     <state x="655" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578275348059">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
     <state x="655" y="380" key="com.intellij.ide.util.TipDialog/79.27.1841.1053@79.27.1841.1053" timestamp="1578275348059" />
-    <state x="304" y="372" width="1372" height="605" key="new project wizard" timestamp="1578587190308">
+    <state x="304" y="372" width="1372" height="605" key="new project wizard" timestamp="1579629482818">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="304" y="372" width="1372" height="605" key="new project wizard/79.27.1841.1053@79.27.1841.1053" timestamp="1578587190308" />
-    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1578674269099">
+    <state x="304" y="372" width="1372" height="605" key="new project wizard/79.27.1841.1053@79.27.1841.1053" timestamp="1579629482818" />
+    <state x="198" y="254" key="run.anything.popup" timestamp="1579660848237">
       <screen x="79" y="27" width="1841" height="1053" />
     </state>
-    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup/79.27.1841.1053@79.27.1841.1053" timestamp="1578674269099" />
+    <state x="198" y="254" key="run.anything.popup/79.27.1841.1053@79.27.1841.1053" timestamp="1579660848237" />
+    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1579832801066">
+      <screen x="79" y="27" width="1841" height="1053" />
+    </state>
+    <state x="662" y="257" width="672" height="678" key="search.everywhere.popup/79.27.1841.1053@79.27.1841.1053" timestamp="1579832801066" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kmps_petclinic$KmpsPetclinicApplication.ic" NAME="KmpsPetclinicApplication Coverage Results" MODIFIED="1578675412476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
